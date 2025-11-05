@@ -1,4 +1,4 @@
-# 🌟 CraftCloner - Website Builder
+# 🌟 CloneCrafter - Website Builder
 
 A modern, AI-assisted web application generator that helps you quickly create fully structured web projects with minimal effort. Ideal for developers who want to focus on design and functionality while automating repetitive tasks.  
 
